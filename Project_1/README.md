@@ -36,13 +36,14 @@ In this project, the only role of the Arduino Uno is to power the breadboard.
 In this setup, all components are connected in series, so current flows through each LED sequentially.
 
 ![Series circuit front view](./images/series_circuit/setup_front.jpg)
-![Series circuit front view](./images/series_circuit/projet_1_schema_serie.png)
+![Series circuit schema](./images/series_circuit/projet_1_schema_serie.png)
 
 ## ⚡ Parallel Circuit
 
 In this setup, components are connected in parallel, so each LED receives the same voltage.
 
 ![Parallel circuit front view](./images/parallel_circuit/setup_front.jpg)
+![Parallel circuit schema](./images/parallel_circuit/projet_1_schema_parallele.png)
 
 ---
 
