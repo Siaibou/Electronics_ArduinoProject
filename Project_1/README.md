@@ -1,5 +1,7 @@
-# 🔌 Arduino Starter Kit - Project 1 : Know Your Tools
+# 🔌 Arduino Starter Kit - Project 1 : Get to know your tools
 
+![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Hardware Project](https://img.shields.io/badge/Hardware%20Project-orange?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ## 🧭 Table of Contents
 - [Overview](#-overview)
