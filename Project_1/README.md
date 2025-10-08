@@ -10,11 +10,11 @@ In this project, the only role of the Arduino Uno is to power the breadboard.
 ## 🧰 Components Used
 | Component | Quantity | Description |
 |------------|-----------|-------------|
-| Arduino Uno | 1 | Main microcontroller board |
-| LED |  | Red, Yellow LEDs |
+| Arduino Uno | 1 | Main source of power |
+| LED | 1 | Red and yellow LEDs |
 | 10kΩ resistor | 1 | Current limiting resistors for LEDs |
 | Push button | 2 | Input control |
-| Jumper wires | 3 - 4 | For circuit connections |
+| Jumper wires | 5 - 6 | For circuit connections |
 | Breadboard | 1 | Prototype base |
 
 
