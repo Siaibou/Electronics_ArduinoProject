@@ -1,0 +1,18 @@
+# 🔌 Arduino Starter Kit - Project 1: Know Your Tools
+
+## 🧠 Overview
+This project is part of the Arduino Starter Kit series.  
+The goal is to learn how to use a breadboard, LEDs, resistors, and basic circuit connections.
+In this project the only goal of the Arduino Uno is to aliment the breadboard
+---
+
+## 🧰 Components Used
+| Component | Quantity | Description |
+|------------|-----------|-------------|
+| Arduino Uno | 1 | Main microcontroller board |
+| LED | 3 | Red, Green, and Blue LEDs |
+| 220Ω resistor | 3 | Current limiting resistors for LEDs |
+| Push button | 1 | Input control |
+| Jumper wires | Several | For circuit connections |
+| Breadboard | 1 | Prototype base |
+
