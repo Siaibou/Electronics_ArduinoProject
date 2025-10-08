@@ -6,7 +6,7 @@
 - [Components Used](#-Components-used)
 - [Series Circuit](#-series-circuit)
 - [Parallel Circuit](#-parallel-circuit)
-- [Learnings](#-what-did-i-learn)
+- [Learnings](#-what-i-learned)
 
 ## 🧠 Overview
 This project is part of the Arduino Starter Kit series.  
@@ -43,7 +43,7 @@ In this setup, components are connected in parallel, so each LED receives the sa
 
 ---
 
-## 📚 what did i learn ?
+## 📚 what i learned 
 
 - Learned the difference between **series** and **parallel** circuits.
 - Understood how **voltage and current** behave differently in both types of circuits.
