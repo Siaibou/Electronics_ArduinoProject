@@ -43,7 +43,7 @@ In this setup, components are connected in parallel, so each LED receives the sa
 
 ---
 
-## 📚 Learnings
+## 📚 what did i learn ?
 
 - Learned the difference between **series** and **parallel** circuits.
 - Understood how **voltage and current** behave differently in both types of circuits.
