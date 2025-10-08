@@ -6,7 +6,7 @@
 - [Components Used](#-Components-used)
 - [Series Circuit](#-series-circuit)
 - [Parallel Circuit](#-parallel-circuit)
-- [Learnings](#-learnings)
+- [Learnings](#-what-did-i-learn)
 
 ## 🧠 Overview
 This project is part of the Arduino Starter Kit series.  
