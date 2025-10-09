@@ -5,7 +5,7 @@
 
 ## 🧭 Table of Contents
 - [Overview](#-overview)
-- [Components Used](#-Components-used)
+- [Components Used](#-components-used)
 - [Series Circuit](#-series-circuit)
 - [Parallel Circuit](#-parallel-circuit)
 - [What i learned](#-what-i-learned)
