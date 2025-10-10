@@ -38,7 +38,7 @@ Schema of the project :
 - First use of digital pins
 - Discovered how small wiring mistakes can affect the behavior of LEDs.
 
-This project helped me strengthen my understanding of basic circuit theory and component connections before moving to more complex Arduino projects.
+This project helped me strengthen my understanding of how to controls the relation between my arduino and my components.
 
 ---
 
