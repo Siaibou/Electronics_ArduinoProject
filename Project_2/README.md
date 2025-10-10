@@ -1,4 +1,4 @@
-# 🔌 Arduino Starter Kit - Project 2: Spaceship Interface
+# 🔌 Arduino Starter Kit - Project 2 : Spaceship Interface
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Hardware Project](https://img.shields.io/badge/Hardware%20Project-orange?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -109,3 +109,4 @@ void loop() {
   <a href="https://github.com/Siaibou">⬅️ Back to my GitHub Portfolio</a> •
   <a href="https://github.com/Siaibou/Electronics_ArduinoProject">🔌 View all Arduino Projects</a>
 </p>
+
