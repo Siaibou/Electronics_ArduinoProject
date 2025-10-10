@@ -57,7 +57,7 @@ This project introduces:
 
 ## 💻 Code
 
-You can find the source file in [`/code/spaceship_interface.ino`](./code/spaceship_interface.ino).  
+You can find the source file in [`/code/spaceship_interface.ino`](./code/code.ino).  
 Here’s the main program used in this project:
 
 ```cpp
@@ -109,4 +109,5 @@ void loop() {
   <a href="https://github.com/Siaibou">⬅️ Back to my GitHub Portfolio</a> •
   <a href="https://github.com/Siaibou/Electronics_ArduinoProject">🔌 View all Arduino Projects</a>
 </p>
+
 
